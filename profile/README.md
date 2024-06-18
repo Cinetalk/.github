@@ -21,4 +21,4 @@ CINETALK는 모든 영화 관련 정보를 제공하는 서비스입니다. 최�
 
 ### 오픈채팅 문의
 
-![오픈채팅 문의]([http://pf.kakao.com/_xmWUxmG))
+![오픈채팅 문의]([http://pf.kakao.com/_xmWUxmG)
