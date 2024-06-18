@@ -17,11 +17,8 @@ CINETALK는 모든 영화 관련 정보를 제공하는 서비스입니다. 최�
 - **평가 시스템**: 영화를 평가하고 평균 평점을 확인
 - **보고싶은 영화 리스트**: 개인화된 보고싶은 영화 리스트 작성
 
-## 🚀 시작하기
+## 🚀 문의
 
-### 설치 방법
+### 오픈채팅 문의
 
-1. 저장소를 클론합니다:
-    ```bash
-    git clone https://github.com/your-username/cinetalk.git
-    ```
+![오픈채팅 문의]([http://pf.kakao.com/_xmWUxmG))
