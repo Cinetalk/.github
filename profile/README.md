@@ -1,11 +1,27 @@
-## 안녕하세요 CINETALK 입니다
-<!--
+# 🎬 CINETALK
 
-**Here are some ideas to get you started:**
+**CINETALK** 서비스에 오신 것을 환영합니다! 이 서비스는 영화에 대한 자세한 정보와 사용자 리뷰를 제공합니다. 영화 애호가들의 최신 영화와 리뷰를 확인해 보세요.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+![CINETALK 배너](https://via.placeholder.com/800x200.png?text=CINETALK)
+
+
+## 🎥 소개
+
+CINETALK는 모든 영화 관련 정보를 제공하는 서비스입니다. 최신 블록버스터 리뷰부터 고전 영화에 대한 깊이 있는 정보까지, 모든 것을 한 곳에서 확인할 수 있습니다.
+
+## ✨ 기능
+
+- **영화 데이터베이스**: TMDB 영화 컬렉션에 대한 정보 제공
+- **사용자 리뷰**: 다른 영화 애호가들의 리뷰 읽기
+- **검색 기능**:  키워드에 따른 영화와 리뷰 검색
+- **평가 시스템**: 영화를 평가하고 평균 평점을 확인
+- **보고싶은 영화 리스트**: 개인화된 보고싶은 영화 리스트 작성
+
+## 🚀 시작하기
+
+### 설치 방법
+
+1. 저장소를 클론합니다:
+    ```bash
+    git clone https://github.com/your-username/cinetalk.git
+    ```
