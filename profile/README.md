@@ -2,7 +2,7 @@
 
 **CINETALK** 서비스에 오신 것을 환영합니다!<br> 이 서비스는 영화에 대한 자세한 정보와 사용자 리뷰를 제공합니다. 영화 애호가들의 최신 영화와 리뷰를 확인해 보세요.
 
-![CINETALK 배너](https://github.com/Cinetalk/.github/assets/131329687/da96067a-7903-484a-ad46-7616c84bf020)
+![CINETALK 배너](![image](https://github.com/Cinetalk/.github/assets/131329687/3a49302d-3e09-45a8-904a-86ac9059eee9))
 
 
 
